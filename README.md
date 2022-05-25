@@ -8,14 +8,14 @@ To showcase data manipulation and cleaning skills on whatsapp chat history conta
 
 ## Can be applied to other chat history data with adjustments of several variables.
 
-### !!!!!! There were bugs in WhatsApp chat history formatting, dates & message contents have been preprocessed by following steps,
-#### - "replace" function in txt file, e.g. "1/1/2022" ➔ "01/01/2022"
-#### - "replace" function in MS word (Ctrl+h), mainly replace ^p* (new line)  with * to combine msg contents
+!!!!!! There were bugs in WhatsApp chat history formatting, dates & message contents have been preprocessed by following steps,
+ - "replace" function in txt file, e.g. "1/1/2022" ➔ "01/01/2022"
+ - "replace" function in MS word (Ctrl+h), mainly replace ^p* (new line)  with * to combine msg contents
 
 ### Also, for privacy reasons, usernames(in both username columns & message content) have been sensored, e.g., 
-#### - "+852 9169 9169" ➔ '+852 91** **69', 
-#### - "Joe Biden" ➔ "Jo*  **den" & 
-#### - "Vladimir Putin" ➔ "VladP."
+ - "+852 9169 9169" ➔ '+852 91** **69', 
+ - "Joe Biden" ➔ "Jo*  **den" & 
+ - "Vladimir Putin" ➔ "VladP."
 
 Self-explanatory with table of content
 
