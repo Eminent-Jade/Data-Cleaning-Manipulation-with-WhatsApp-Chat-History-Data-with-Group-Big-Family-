@@ -10,7 +10,7 @@ To showcase data manipulation and cleaning skills on whatsapp chat history conta
 
 !!!!!! There were bugs in WhatsApp chat history formatting, dates & message contents have been preprocessed by following steps, e.g.,
  - "1/1/2022" ➔ "01/01/2022"
- - "replace new line with '' to appropriately combine msg contents
+ - replace new line with '' to appropriately combine msg contents
 
 ### Also, for privacy reasons, usernames(in both username columns & message content) have been sensored, e.g., 
  - "+852 9169 9169" ➔ '+852 91** **69', 
