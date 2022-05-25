@@ -26,7 +26,9 @@ Self-explanatory with table of content
 !!. Further processing on usernames-code showcasing only, done beforehand
 3. Create DataFrame for dates, usernames & chat messages
 4. Data manipulation & Exploratory Analysis
+
   4.1 Monthly message counts
+
   4.2 Message frequencies by Hours & Day of the week respectively
 		4.2.1 Common keywords & their frequencies in corresponding chat messages & their rates of appearances
 	4.3 Message counts & word counts by month per user
