@@ -4,7 +4,7 @@ No original chat history provided for privacy reason
 
 To showcase data manipulation and cleaning skills on whatsapp chat history containing chinese characters, with assistance of packages, wordclouds & jieba
 
-### Therefore, BE OPEN-MINDED & OBJECTIVE with the contents while taking nothing personal.
+### ⚠⚠⚠ATTENTION：This project is not created for any religious purposes, nor does the chat history content represent the author's own stance or point of views in any aspects. Therefore, please BE OPEN-MINDED & OBJECTIVE with the contents without taking anything personal.
 
 ## Can be applied to other chat history data with adjustments of several variables.
 
